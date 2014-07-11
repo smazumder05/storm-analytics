@@ -4,8 +4,8 @@
 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>storm.book</groupId>
-  <artifactId>Getting-Started</artifactId>
+  <groupId>storm.analytics/groupId>
+  <artifactId>Storm Analytics</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <build>
